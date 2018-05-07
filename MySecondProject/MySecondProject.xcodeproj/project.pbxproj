@@ -89,7 +89,7 @@
 		EFDB76AE2073696B000ACC90 = {
 			isa = PBXGroup;
 			children = (
-				EFDB76B92073696B000ACC90 /* MyFirstProject */,
+				EFDB76B92073696B000ACC90 /* MySecondProject */,
 				EFDB76CE2073696C000ACC90 /* MyFirstProjectTests */,
 				EFDB76D92073696C000ACC90 /* MyFirstProjectUITests */,
 				EFDB76B82073696B000ACC90 /* Products */,
@@ -106,7 +106,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EFDB76B92073696B000ACC90 /* MyFirstProject */ = {
+		EFDB76B92073696B000ACC90 /* MySecondProject */ = {
 			isa = PBXGroup;
 			children = (
 				EFDB76BA2073696C000ACC90 /* AppDelegate.swift */,
@@ -122,7 +122,7 @@
 				EF33B5292086811200C48CE4 /* CVCMiCelda2.swift */,
 				EF5FF193208A363500412EFB /* DataHolder.swift */,
 			);
-			path = MyFirstProject;
+			path = MySecondProject;
 			sourceTree = "<group>";
 		};
 		EFDB76CE2073696C000ACC90 /* MyFirstProjectTests */ = {
@@ -451,9 +451,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = MyFirstProject/Info.plist;
+				INFOPLIST_FILE = MySecondProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = wut.MyFirstProject;
+				PRODUCT_BUNDLE_IDENTIFIER = wut.MySecondProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -465,9 +465,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = MyFirstProject/Info.plist;
+				INFOPLIST_FILE = MySecondProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = wut.MyFirstProject;
+				PRODUCT_BUNDLE_IDENTIFIER = wut.MySecondProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
